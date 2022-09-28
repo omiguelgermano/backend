@@ -1,6 +1,6 @@
 // Arrow Function
 
-// Função Arrow a partir de uma Function Expression
+// Função Arrow se da a partir de uma Function Expression
 
 // Function Expression -> 
 const increment1 = function(n) {

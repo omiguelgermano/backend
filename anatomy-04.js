@@ -1,7 +1,7 @@
 // Anonymous Function
 
 // IIFE - Immediately Invoked Function Expression - Função imediatamente invocada
-// ocorre em função anonima e queremos na sequencia imediata mostrar o resultado
+// ocorre em função anonima e que queremos na sequencia imediata mostrar o resultado
 // Essa função é usada quando precisamos garantir que determinados valores vão estar dentro de um escopo mais restrito. Tipo uma variavel local
 (function (a, b, c) {
     console.log(`Result: ${a + b + c}`) // ${ argumento } -> chamados de interpolar
